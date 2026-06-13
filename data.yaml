@@ -1,0 +1,9 @@
+path: /home/ubuntu/kitti-yolo/data
+train: images/train
+val: images/val
+
+nc: 3
+names:
+  0: Car
+  1: Pedestrian
+  2: Cyclist
